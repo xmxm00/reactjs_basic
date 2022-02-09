@@ -17,4 +17,4 @@ JSX는 자바스크립트 내에서 html 태그처럼 이용할 수 있도록 �
 
 > ### 정보 출처
 
-> 노마드코더 강의 : https://nomadcoders.co/react-for-beginners
+노마드코더 강의 : https://nomadcoders.co/react-for-beginners
